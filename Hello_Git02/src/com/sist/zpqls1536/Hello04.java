@@ -1,4 +1,4 @@
-package com.sist.g2;
+package com.sist.zpqls1536;
 
 public class Hello04 {
 	
