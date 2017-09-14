@@ -8,6 +8,7 @@ public class HelloWorld {
 		System.out.println("♪└(＾ω＾ )┐♫┌( ＾ω＾)┘");
 		
 		System.out.println("정현준짱");
+		System.out.println("정현준짱");
 	}
 
 }
