@@ -11,6 +11,9 @@ public class HelloWorld {
 		System.out.println("♪└(＾ω＾ )┐♫┌( ＾ω＾)┘");
 		System.out.println("정현준짱");
 		System.out.println("정현준짱");
+		System.out.println("정현준은 짱입니다.");	
+		System.out.println("정현준짱");		
+		System.out.println("정현준 갓 오브 이디엠");
 	}
 
 }
