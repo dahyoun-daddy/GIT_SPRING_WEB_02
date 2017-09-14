@@ -6,6 +6,8 @@ public class HelloWorld {
 		// TODO Auto-generated method stub
 		System.out.println("안녕하세요");
 		System.out.println("♪└(＾ω＾ )┐♫┌( ＾ω＾)┘");
+		
+		System.out.println("정현준짱");
 	}
 
 }
