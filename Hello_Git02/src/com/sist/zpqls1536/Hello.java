@@ -1,4 +1,4 @@
-package com.sist.g2.pinkbean;
+package com.sist.zpqls1536;
 
 public class Hello {
 //냐라랑
