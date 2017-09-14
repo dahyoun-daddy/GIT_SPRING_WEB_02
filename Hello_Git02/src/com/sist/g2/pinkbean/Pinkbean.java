@@ -5,5 +5,6 @@ public class Pinkbean {
 	public static void main(String[] args) {
 		// ~(ㅇㅅㅇ )~
 		// ~( ^ㅅ^)~
+		//^ㅇ^
 	}
 }
