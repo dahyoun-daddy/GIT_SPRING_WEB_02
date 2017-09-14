@@ -6,5 +6,7 @@ public class whatareyou {
 		System.out.println("121");
 		System.out.println("야거는하뭐");
 		//
+		
+		System.out.println("여기는 입력");
 	}
 }
