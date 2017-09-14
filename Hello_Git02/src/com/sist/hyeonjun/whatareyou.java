@@ -10,5 +10,6 @@ public class whatareyou {
 		System.out.println("우우우우우");
 		System.out.println("칠칠칠칠칠");
 		System.out.println("시스아웃할까요?");
+		//
 	}
 }
