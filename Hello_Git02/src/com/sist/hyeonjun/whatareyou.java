@@ -6,5 +6,7 @@ public class whatareyou {
 		System.out.println("뭐하는거야");
 		
 		System.out.println("정현준");
+		
+		System.out.println("정현준 is god");
 	}
 }
