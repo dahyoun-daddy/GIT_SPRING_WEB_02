@@ -9,6 +9,9 @@ public class HelloMinSeok {
 		System.out.println("안녕하세요");
 		System.out.println("********");
 		System.out.println("퇴사하겠습니다.");
+
+		System.out.println("********");
+		System.out.println("조퇴하겠습니다.");
 	}
 
 }
